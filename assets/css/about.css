@@ -42,3 +42,9 @@ body {
   transition: 0.5s;
 }
 
+
+footer{
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
