@@ -20,6 +20,8 @@ body {
   margin-top: 15vmin;
   position: relative;
   transition: 0.6s ease;
+  padding-bottom: 5%;
+  padding-right: 10%;
 }
 
 .btn {
