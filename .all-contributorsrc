@@ -6,15 +6,18 @@
   "commit": false,
   "contributors": [
     {
- all-contributors/add-PulkitSinghDev
+      "login": "sudiptog81",
+      "name": "Sudipto Ghosh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11232940?v=4",
+      "profile": "https://sudipto.ghosh.pro",
+      "contributions": [
+        "code"
       "login": "PulkitSinghDev",
       "name": "Pulkit Singh",
       "avatar_url": "https://avatars.githubusercontent.com/u/71369943?v=4",
       "profile": "https://pulkitsinghdev.tech",
       "contributions": [
         "code"
-
-    all-contributors/add-kulendu
       "login": "kulendu",
       "name": "库伦杜",
       "avatar_url": "https://avatars.githubusercontent.com/u/56751963?v=4",
@@ -28,7 +31,6 @@
       "profile": "http://eddiejaoude.io",
       "contributions": [
         "doc"
-        main
       ]
     }
   ],
