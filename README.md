@@ -1,4 +1,7 @@
 <h1 class="heading-2">What is LHD:&nbsp;share?</h1>
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 <p class="paragraph">
 Local Hack Day: Share is a week-long celebration of sharing everything you’ve learned as a hacker. If you’ve been hacking with us all year, we’re excited to have you back. If this is your very first event, we’ve got a ton of beginner-friendly challenges for you to complete that’ll have you shipping your hack like a pro in no time. You’ll have your pick of technical, design, and social challenges to complete - each with an emphasis on sharing your work. The more challenges you conquer, the more points you’ll earn. Tune in each day to check out the leaderboards and share what you’ve built.<br></p>
 
@@ -37,3 +40,23 @@ details like this</h2>
 
 <h3 align="center">PS - you get green squares daily</h3>
 <img src="./assets/images/ed.gif" width="100%">
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://muthuannamalai12.github.io/"><img src="https://avatars.githubusercontent.com/u/64524822?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Muthu Annamalai Venkatachalam</b></sub></a><br /><a href="https://github.com/kcoder63/Eddiehub_share/commits?author=muthuannamalai12" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
