@@ -52,6 +52,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://muthuannamalai12.github.io/"><img src="https://avatars.githubusercontent.com/u/64524822?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Muthu Annamalai Venkatachalam</b></sub></a><br /><a href="https://github.com/kcoder63/Eddiehub_share/commits?author=muthuannamalai12" title="Code">💻</a></td>
     <td align="center"><a href="https://sudipto.ghosh.pro"><img src="https://avatars.githubusercontent.com/u/11232940?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sudipto Ghosh</b></sub></a><br /><a href="https://github.com/kcoder63/Eddiehub_share/commits?author=sudiptog81" title="Code">💻</a></td>
     <td align="center"><a href="https://pulkitsinghdev.tech"><img src="https://avatars.githubusercontent.com/u/71369943?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pulkit Singh</b></sub></a><br /><a href="https://github.com/kcoder63/Eddiehub_share/commits?author=PulkitSinghDev" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/kulendu"><img src="https://avatars.githubusercontent.com/u/56751963?v=4?s=100" width="100px;" alt=""/><br /><sub><b>库伦杜</b></sub></a><br /><a href="https://github.com/kcoder63/Eddiehub_share/commits?author=kulendu" title="Code">💻</a> <a href="#ideas-kulendu" title="Ideas, Planning, & Feedback">🤔</a></td>
@@ -64,6 +65,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
