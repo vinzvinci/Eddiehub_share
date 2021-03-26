@@ -52,6 +52,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/Vyvy-vi"><img src="https://avatars.githubusercontent.com/u/62864373?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vyom Jain</b></sub></a><br /><a href="#ideas-Vyvy-vi" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://vinzvinci.github.io/"><img src="https://avatars.githubusercontent.com/u/73097560?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vincent Villafuerte</b></sub></a><br /><a href="https://github.com/kcoder63/Eddiehub_share/commits?author=vinzvinci" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/ChinmayMhatre"><img src="https://avatars.githubusercontent.com/u/51131670?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chinmay Mhatre</b></sub></a><br /><a href="#maintenance-ChinmayMhatre" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/divyakumari12"><img src="https://avatars.githubusercontent.com/u/73889049?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Divya Kumari</b></sub></a><br /><a href="#ideas-divyakumari12" title="Ideas, Planning, & Feedback">🤔</a></td>
