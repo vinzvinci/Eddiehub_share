@@ -6,12 +6,21 @@
   "commit": false,
   "contributors": [
     {
+    all-contributors/add-kulendu
+      "login": "kulendu",
+      "name": "库伦杜",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56751963?v=4",
+      "profile": "https://github.com/kulendu",
+      "contributions": [
+        "code",
+        "ideas"
       "login": "eddiejaoude",
       "name": "Eddie Jaoude",
       "avatar_url": "https://avatars.githubusercontent.com/u/624760?v=4",
       "profile": "http://eddiejaoude.io",
       "contributions": [
         "doc"
+        main
       ]
     }
   ],

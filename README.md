@@ -50,7 +50,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+all-contributors/add-kulendu
+    <td align="center"><a href="https://github.com/kulendu"><img src="https://avatars.githubusercontent.com/u/56751963?v=4?s=100" width="100px;" alt=""/><br /><sub><b>库伦杜</b></sub></a><br /><a href="https://github.com/kcoder63/Eddiehub_share/commits?author=kulendu" title="Code">💻</a> <a href="#ideas-kulendu" title="Ideas, Planning, & Feedback">🤔</a></td>
+   =======
     <td align="center"><a href="http://eddiejaoude.io"><img src="https://avatars.githubusercontent.com/u/624760?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Eddie Jaoude</b></sub></a><br /><a href="https://github.com/kcoder63/Eddiehub_share/commits?author=eddiejaoude" title="Documentation">📖</a></td>
+ main
   </tr>
 </table>
 
