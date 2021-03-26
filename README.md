@@ -52,6 +52,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/divyakumari12"><img src="https://avatars.githubusercontent.com/u/73889049?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Divya Kumari</b></sub></a><br /><a href="#ideas-divyakumari12" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/Zipher007"><img src="https://avatars.githubusercontent.com/u/72245772?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kunal Verma</b></sub></a><br /><a href="#ideas-Zipher007" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/imvisp"><img src="https://avatars.githubusercontent.com/u/75424375?v=4?s=100" width="100px;" alt=""/><br /><sub><b>vishal patadia</b></sub></a><br /><a href="https://github.com/kcoder63/Eddiehub_share/commits?author=imvisp" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/bishalr0y"><img src="https://avatars.githubusercontent.com/u/56751927?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bishal Roy</b></sub></a><br /><a href="https://github.com/kcoder63/Eddiehub_share/commits?author=bishalr0y" title="Code">💻</a></td>
@@ -67,7 +68,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
