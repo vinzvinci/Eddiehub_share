@@ -1,7 +1,7 @@
 <h1 class="heading-2">What is LHD:&nbsp;share?</h1>
-
+all-contributors/add-PulkitSinghDev
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p class="paragraph">
@@ -52,6 +52,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    all-contributors/add-PulkitSinghDev
+    <td align="center"><a href="https://pulkitsinghdev.tech"><img src="https://avatars.githubusercontent.com/u/71369943?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pulkit Singh</b></sub></a><br /><a href="https://github.com/kcoder63/Eddiehub_share/commits?author=PulkitSinghDev" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/kulendu"><img src="https://avatars.githubusercontent.com/u/56751963?v=4?s=100" width="100px;" alt=""/><br /><sub><b>库伦杜</b></sub></a><br /><a href="https://github.com/kcoder63/Eddiehub_share/commits?author=kulendu" title="Code">💻</a> <a href="#ideas-kulendu" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://eddiejaoude.io"><img src="https://avatars.githubusercontent.com/u/624760?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Eddie Jaoude</b></sub></a><br /><a href="https://github.com/kcoder63/Eddiehub_share/commits?author=eddiejaoude" title="Documentation">📖</a></td>
   </tr>
@@ -62,4 +64,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
