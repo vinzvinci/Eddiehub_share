@@ -52,6 +52,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/bishalr0y"><img src="https://avatars.githubusercontent.com/u/56751927?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bishal Roy</b></sub></a><br /><a href="https://github.com/kcoder63/Eddiehub_share/commits?author=bishalr0y" title="Code">💻</a></td>
     <td align="center"><a href="https://muthuannamalai12.github.io/"><img src="https://avatars.githubusercontent.com/u/64524822?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Muthu Annamalai Venkatachalam</b></sub></a><br /><a href="https://github.com/kcoder63/Eddiehub_share/commits?author=muthuannamalai12" title="Code">💻</a></td>
     <td align="center"><a href="https://sudipto.ghosh.pro"><img src="https://avatars.githubusercontent.com/u/11232940?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sudipto Ghosh</b></sub></a><br /><a href="https://github.com/kcoder63/Eddiehub_share/commits?author=sudiptog81" title="Code">💻</a></td>
     <td align="center"><a href="https://pulkitsinghdev.tech"><img src="https://avatars.githubusercontent.com/u/71369943?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pulkit Singh</b></sub></a><br /><a href="https://github.com/kcoder63/Eddiehub_share/commits?author=PulkitSinghDev" title="Code">💻</a></td>
