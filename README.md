@@ -17,8 +17,8 @@ details like this</h2>
 <img align="center" src="./assets/images/main2.png" style="width:100%">
 <h3>Accept Code of Conduct and Discord rules</h3>
 <img align="center" src="./assets/images/main3.png" style="width:100%">
-<h2>4. Select EddieHub in Guild Membership !!</h2>
-<img align="center" src="./assets/images/mlh-form.png" style="width:100%">
+<h2>Select EddieHub in Guild Membership</h2>
+<img align="center" src="./assets/images/lhd-guild.png" style="width:100%">
 
 <h2 align="center">Click on Submit !! You are done !!</h2>
   
