@@ -1,0 +1,20 @@
+name: Greetings
+
+on: 
+    issues:
+      types: [opened]
+    pull_request_target:
+      types: [opened]
+    pull_request_review_comment:
+      types: [created]
+
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'We are happy to have you contribute to this project'
+        pr-message: 'Thank you for making your valuable contribution to this project'
