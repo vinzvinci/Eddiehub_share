@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-) ~~-~~ ![Visitors](https://Visitor-badge.glitch.me/badge?page_id=Eddiehub_share)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-) ~~-~~ 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <h1 class="heading-2">What is LHD:&nbsp;share?</h1>
@@ -74,5 +74,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-<h2 align="center">Visitor's Count :heart:</h2>
-<p align="center"><img src="https://profile-counter.glitch.me//Eddiehub_share/count.svg" alt="Visitor Count" /></p>
